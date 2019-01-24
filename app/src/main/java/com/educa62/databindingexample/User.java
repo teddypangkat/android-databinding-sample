@@ -1,23 +1,19 @@
 package com.educa62.databindingexample;
 
+import android.databinding.ObservableField;
+
 public class User {
 
-    String name;
-    String email;
+    public static ObservableField<String> name = new ObservableField<>();
+    public static ObservableField<String> email= new ObservableField<>();
 
-    public String getName() {
+
+    public ObservableField<String> getName() {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getEmail() {
+    public ObservableField<String> getEmail() {
         return email;
     }
 
-    public void setEmail(String email) {
-        this.email = email;
-    }
 }
