@@ -1,8 +1,7 @@
-package com.educa62.databindingexample;
+package id.eudeka.databindingexample;
 
 import android.content.Context;
 import android.view.View;
-import android.widget.Toast;
 
 public class MyClickListeners {
 

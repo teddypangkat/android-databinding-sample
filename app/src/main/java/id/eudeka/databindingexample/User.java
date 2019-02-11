@@ -1,4 +1,4 @@
-package com.educa62.databindingexample;
+package id.eudeka.databindingexample;
 
 import android.databinding.ObservableField;
 

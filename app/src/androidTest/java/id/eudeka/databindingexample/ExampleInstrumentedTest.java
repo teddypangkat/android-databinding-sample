@@ -1,4 +1,4 @@
-package com.educa62.databindingexample;
+package id.eudeka.databindingexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

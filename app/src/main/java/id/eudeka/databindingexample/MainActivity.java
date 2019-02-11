@@ -1,10 +1,10 @@
-package com.educa62.databindingexample;
+package id.eudeka.databindingexample;
 
 import android.databinding.DataBindingUtil;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import id.eudeka.databindingexample.databinding.ActivityMainBinding;
 
-import com.educa62.databindingexample.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
